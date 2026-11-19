@@ -1,6 +1,6 @@
 # Chess Game
 
-A local two-player chess project built with **C++17** and **SFML 2.6.2**, created to practice programming fundamentals, board representation, move validation, and graphical event handling.
+A local two-player chess project built with **C++** and **SFML 2.6.2**, created to practice programming fundamentals, board representation, move validation, and graphical event handling.
 
 ## Gameplay Demo
 
