@@ -4,11 +4,9 @@ A local two-player chess project built with **C++17** and **SFML 2.6.2**, create
 
 ## Gameplay Demo
 
-![Animated chess gameplay](Videos/preview.gif)
+https://github.com/user-attachments/assets/17577254-d41d-449c-b0fe-2cc59545b17b
 
-The animation plays directly in the README. Click below for the full recorded MP4.
-
-[Watch the full gameplay video](Videos/demo.mp4)
+[Open the full gameplay video](Videos/demo.mp4)
 
 ## Project Preview
 
